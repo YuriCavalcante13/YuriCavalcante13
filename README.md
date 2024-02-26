@@ -1,5 +1,5 @@
 -  Hi, I’m @YuriCavalcante13
--  I’m currently learning Java
+-  I’m currently learning GD Script 
 -  I’m looking to collaborate on ...
 -  Pronouns: VAS/CO
 - 
